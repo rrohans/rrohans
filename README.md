@@ -27,4 +27,4 @@ if __name__ == "__main__":
     me.greet()
 ```
 
-[![Website](https://img.shields.io/website?label=Personal%20Wbsite&style=for-the-badge&url=https://rohan-simon.vercel.app/)](https://rohan-simon.vercel.app/)
+[![Website](https://img.shields.io/website?label=Personal%20Website&style=for-the-badge&url=https://rohan-simon.vercel.app/)](https://rohan-simon.vercel.app/)
