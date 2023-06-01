@@ -33,6 +33,6 @@ if __name__ == "__main__":
     me.greet()
 ```
 
-<hr /> <br />
+<hr />
 
 [![Website](https://img.shields.io/website?label=Personal%20Website&style=for-the-badge&url=https://rohan-simon.vercel.app/)](https://rohan-simon.vercel.app/)
